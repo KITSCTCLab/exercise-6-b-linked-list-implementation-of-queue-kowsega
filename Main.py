@@ -1,22 +1,3 @@
-class Node:
-  def __init__(self, data):
-    self.data = data
-    self.next = None
-
-
-class Queue:
-  def __init__(self):
-    self.head = None
-    self.last = None
-
-  def enqueue(self, data) -> None:
-    # Write your code here
-
-  def dequeue(self) -> None:
-    # Write your code here
-
-  def status(self) -> None:
-    # Write your code here
 
 
 # Do not change the following code
